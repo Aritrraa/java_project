@@ -1,0 +1,8 @@
+📅 Expense Report
+
+2025-03-23:
+  Food: ₹35.00
+  Total: ₹35.00
+
+📈 Monthly Summary:
+  2025-03: ₹35.00
