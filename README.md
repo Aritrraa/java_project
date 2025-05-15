@@ -55,11 +55,11 @@ Insert screenshot here:
 
 2. Main Expense Tracker Interface  
 Insert screenshot here:  
-![Main Interface](financialtracker1.png)
+![Main Interface](financetracker1.png)
 
 3. Expense Report and Export Option  
 Insert screenshot here:  
-![Expense Report](financialtracker2.png)
+![Expense Report](financetracker2.png)
 
 
 ---
