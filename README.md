@@ -51,15 +51,16 @@ Enter the PIN 1234 to start tracking your expenses.
 
 1. PIN Authentication Prompt  
 Insert screenshot here:  
-![PIN Authentication](screenshots/pin_prompt.png)
+![PIN Authentication](pincode1.png)
 
 2. Main Expense Tracker Interface  
 Insert screenshot here:  
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](financialtracker1.png)
 
 3. Expense Report and Export Option  
 Insert screenshot here:  
-![Expense Report](screenshots/expense_report.png)
+![Expense Report](financialtracker2.png)
+
 
 ---
 
